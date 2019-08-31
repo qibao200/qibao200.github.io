@@ -24,6 +24,7 @@ navbar-links:
   Resources:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     #- Learn markdown: "http://www.markdowntutorial.com/"
+    - 上海财经大学:"http://www.sufe.edu.cn/"
   Author's home: "http://deanattali.com"
 
 # Image to show in the navigation bar - image must be a square (width = height)
