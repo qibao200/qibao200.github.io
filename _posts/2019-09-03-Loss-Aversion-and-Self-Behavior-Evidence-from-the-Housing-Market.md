@@ -1,6 +1,6 @@
 ---
 layout: post
-title: LOSS AVERSION AND SELLER BEHAVIOR: EVIDENCE FROM THE HOUSING MARKET
+title: LOSS AVERSION AND SELLER BEHAVIOR:EVIDENCE FROM THE HOUSING MARKET
 subtitle: 
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
